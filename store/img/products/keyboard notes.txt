@@ -1,0 +1,24 @@
+#logitech-mk240
+Logitech MK240 Wireless Keyboard and Mouse Combo
+OS Supprted: Windows XP and Above
+Compatible with: computer
+rs.1550
+
+#zebronics-zeb
+rs. 221
+
+size:standard
+
+
+#logitech111
+Logitech MK240 Wireless Keyboard and Mouse Combo (white)
+
+OS Supprted: Windows: Vista, 7, 8
+Compatible with: computer
+
+rs. 1550
+
+#hp-k3500
+size:standard
+rs.800
+
